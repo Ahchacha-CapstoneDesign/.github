@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" alt="스크린샷 2024-05-14 오후 11 39 53" src="https://github.com/Ahchacha-CapstoneDesign/.github/assets/122718910/f8a427eb-1411-4a57-b7dc-a8172bfc5b15)" />
+<img width="100%" alt="스크린샷 2024-05-14 오후 11 39 53" src="https://github.com/Ahchacha-CapstoneDesign/.github/assets/122718910/4bf4a07c-36d5-4b19-a0d5-0e953c23080a" />
 </div>
 
 #  💻 한성대학교 내 물품 쉐어링(대여 및 관리) 웹서비스 Ah!Chacha
