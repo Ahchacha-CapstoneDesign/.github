@@ -1,4 +1,9 @@
+<div align="center">
+    ![image](https://github.com/Ahchacha-CapstoneDesign/.github/assets/122718910/7104beec-e276-466c-8743-5ead4f2569d4)
+</div>
+
 #  💻 한성대학교 내 물품 쉐어링(대여 및 관리) 웹서비스 Ah!Chacha
+
 
 - 배포 URL : 
 - ID: 한성대학교 종합정보시스템 학번
