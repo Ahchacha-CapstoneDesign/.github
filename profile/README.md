@@ -154,7 +154,7 @@
 - **Figma**
     - Figma는 온라인에서 사용할 수 있는 디자인 툴로, UX/UI 디자인 및 프로토타입 제작을 위한 기능들을 제공
     - 웹・앱・인터페이스 디자인 등 다양한 분야에서 사용되며, 디자인과 개발 과정에서 필요한 여러 협업 기능을 지원
-    - https://www.figma.com/design/ClCUhTc7S0QMVmt95tAhd5/%EC%95%84%EC%B0%A8%EC%B0%A8-%EB%94%94%EC%9E%90%EC%9D%B8
+    - 디자인 링크: https://www.figma.com/design/ClCUhTc7S0QMVmt95tAhd5/%EC%95%84%EC%B0%A8%EC%B0%A8-%EB%94%94%EC%9E%90%EC%9D%B8
 
 - **화면 설계 및 사용자 경험(UI/UX) 설계**
     1) **설계 원칙과 목표**
